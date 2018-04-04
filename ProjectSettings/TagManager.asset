@@ -8,6 +8,7 @@ TagManager:
   - Red Light
   - Blue Light
   - Green Light
+  - Ground
   layers:
   - Default
   - TransparentFX
